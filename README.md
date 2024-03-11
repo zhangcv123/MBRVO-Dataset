@@ -7,7 +7,7 @@ in addition we also provide the groundtruth **optical flow**, **depth**, and **c
   
 # MBR-Dataset  
 
-Currently, only a portion of the sequences of this motion blur dataset is publicly available. We will open source the full dataset when the paper is accepted.
+Currently, only a portion of the sequences of this motion blur dataset is publicly available. We will open source the all dataset when the paper is accepted.
  Click on this link to download the test data.  
 【Baidu】  https://pan.baidu.com/s/1JNKzgmytF8yhRwvHnEMzGQ?pwd=jj2s     Password: jj2s  
 【Google】 https://drive.google.com/drive/folders/12DNUOU8DFfUSkbXx4wY5p-54-MUKD6f1?usp=sharing
