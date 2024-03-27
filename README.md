@@ -44,4 +44,3 @@ Currently, only a portion of the sequences of this motion blur dataset is public
  |    |    |----optical flow
  |    |    |----poses 
 ```
-# MBRVO-Dataset
