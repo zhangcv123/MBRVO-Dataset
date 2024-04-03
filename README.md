@@ -19,8 +19,8 @@ Currently, only a portion of the sequences of this motion blur dataset is public
 
   
 ===========Optical Flow=======================Depth=============  
-![image](https://github.com/zhangcv123/MBRVO-Dataset/blob/main/Demo_images/optical.gif) 
-![image](https://github.com/zhangcv123/MBRVO-Dataset/blob/main/Demo_images/depth.gif)
+![image](https://github.com/zhangcv123/MBRVO-Dataset/blob/main/demo_images/optical.gif) 
+![image](https://github.com/zhangcv123/MBRVO-Dataset/blob/main/demo_images/depth.gif)
 
   
 ## Data Structure  
