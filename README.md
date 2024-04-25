@@ -27,7 +27,8 @@ Currently, only a portion of the sequences of this motion blur dataset is public
 ## Camera Parameters 
 
 The camera parameters used to generate this dataset are shown in Table 1.
-<img src="https://github.com/zhangcv123/MBRVO-Dataset/blob/main/demo_images/Camer_Parameters.png" width="30%">
+
+<img src="https://github.com/zhangcv123/MBRVO-Dataset/blob/main/demo_images/Camer_Parameters.png" width="60%">
 
 
 ## Data Structure  
