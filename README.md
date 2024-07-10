@@ -4,7 +4,8 @@
 This motion blur dataset was synthesized using Unreal Engine 5. The dataset contains **230,000 sharp and blurred image pairs**,
 in addition we also provide the groundtruth **optical flow**, **depth**, and **camera trajectory**.  
 
-**The code of this paper will be released here after the paper is accepted.**
+# MBR-Code  
+  **The code of this paper will be released here after the paper is accepted.**
   
 # MBR-Dataset  
 
